@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is Diego and im a Cibersecurity degree Student in the URJC University
-I
 <!--
 **diegodiaz1256/diegodiaz1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
