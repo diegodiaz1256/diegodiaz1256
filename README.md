@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Diego and im a Cibersecurity degree Student in the URJC University
+My name is Diego and im a Cibersecurity Engineer working as Product Security Specialist on SCOR Digital Solutions
 
 https://www.linkedin.com/in/diego-fern%C3%A1ndez-d%C3%ADaz-b822051b9/
 <!--
